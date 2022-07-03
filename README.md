@@ -2,9 +2,9 @@
 <h3 align="center">Web3 Engineer at OriginTrail</h3>
 
 
-🔭 I’m currently working on [Decentralized Knowledge Graph (DKG)](https://github.com/OriginTrail/ot-node) and [OriginTrail Parachain](https://github.com/OriginTrail/origintrail-parachain).
-🌱 I’m currently learning smart contract and blockchain security.
-👯 I’m looking to collaborate on CTF competitions.
+- 🔭 I’m currently working on [Decentralized Knowledge Graph (DKG)](https://github.com/OriginTrail/ot-node) and [OriginTrail Parachain](https://github.com/OriginTrail/origintrail-parachain).
+- 🌱 I’m currently learning smart contract and blockchain security.
+- 👯 I’m looking to collaborate on CTF competitions.
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=NZT48&theme=react&hide_border=false&include_all_commits=false&count_private=true)
