@@ -17,6 +17,16 @@
 [twitter]: https://twitter.com/nzt_1a
 [linkedin]: https://linkedin.com/in/nikolatodorovic
 
+<br><br>
+
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/NZT48/langs?time_range=one_year&theme=classic" />
+</a>
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/NZT48/repos?time_range=one_year&group=other&theme=classic" />
+</a>
+
+
 <!--
 **NZT48/NZT48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,6 +70,8 @@ Here are some ideas to get you started:
 
 
 <br />
+
+
 
 
 -->
