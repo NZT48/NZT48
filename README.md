@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
-<h3 align="center">Web3 Engineer at OriginTrail</h3>
+<h3 align="center">Lead Blockchain Engineer at OriginTrail</h3>
 
 
 - 🔭 I’m currently working on [Decentralized Knowledge Graph (DKG)](https://github.com/OriginTrail/ot-node) and [OriginTrail Parachain](https://github.com/OriginTrail/origintrail-parachain).
@@ -17,8 +17,8 @@
 [twitter]: https://twitter.com/nzt_1a
 [linkedin]: https://linkedin.com/in/nikolatodorovic
 
+<!--
 <br><br>
-
 <a href="https://githubtrends.io">
   <img align="center" src="https://api.githubtrends.io/user/svg/NZT48/langs?time_range=one_year&theme=classic" />
 </a>
@@ -27,7 +27,7 @@
 </a>
 
 
-<!--
+
 **NZT48/NZT48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
