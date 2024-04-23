@@ -2,7 +2,7 @@
 <h3 align="center">Lead Blockchain Engineer at OriginTrail</h3>
 
 
-- 🔭 I’m currently working on [Decentralized Knowledge Graph (DKG)](https://github.com/OriginTrail/ot-node) and [OriginTrail Parachain](https://github.com/OriginTrail/origintrail-parachain).
+- 🔭 I’m currently working on [Decentralized Knowledge Graph (DKG)](https://github.com/OriginTrail/ot-node) and [NeuroWeb AI](https://github.com/OriginTrail/neuroweb).
 - 🌱 I’m currently learning smart contract and blockchain security.
 - 👯 I’m looking to collaborate on CTF competitions.
 
