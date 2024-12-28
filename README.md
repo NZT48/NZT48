@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
-<h3 align="center">Lead Blockchain Engineer at OriginTrail</h3>
+<h3 align="center">Blockchain and Security Engineer</h3>
 
 
-- 🔭 I’m currently working on [Decentralized Knowledge Graph (DKG)](https://github.com/OriginTrail/ot-node) and [NeuroWeb AI](https://github.com/OriginTrail/neuroweb).
-- 🌱 I’m currently learning smart contract and blockchain security.
-- 👯 I’m looking to collaborate on CTF competitions.
-
+- 🔭 I worked on [Decentralized Knowledge Graph (DKG)](https://github.com/OriginTrail/ot-node) and [NeuroWeb AI](https://github.com/OriginTrail/neuroweb).
+- 🌱 I’m currently reasearching smart contract and blockchain security.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=NZT48&theme=react&hide_border=false&include_all_commits=false&count_private=true)
 
