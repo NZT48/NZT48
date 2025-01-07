@@ -2,7 +2,7 @@
 <h3 align="center">Blockchain and Security Engineer</h3>
 
 - 🌱 I’m currently working on Crypto High Frequency Trading (HFT) engines 
-- 🔭 Previously I worked on [Decentralized Knowledge Graph (DKG)](https://github.com/OriginTrail/ot-node) and [NeuroWeb AI](https://github.com/OriginTrail/neuroweb).
+- 🔭 I'm contributing to open source procjets, [Decentralized Knowledge Graph (DKG)](https://github.com/OriginTrail/ot-node) and [NeuroWeb AI](https://github.com/OriginTrail/neuroweb).
 - 🌱 I’m currently reasearching smart contract and blockchain security.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=NZT48&theme=react&hide_border=false&include_all_commits=false&count_private=true)
