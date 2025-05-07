@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
 <h3 align="center">Blockchain and Security Engineer</h3>
 
-- 🌱 I’m currently working on Crypto High Frequency Trading (HFT) engines 
+- 🌱 I’m currently working on Crypto Low Latency Trading engines 
 - 🔭 I'm contributing to open source projects, [Decentralized Knowledge Graph (DKG)](https://github.com/OriginTrail/ot-node) and [NeuroWeb AI](https://github.com/OriginTrail/neuroweb).
 - 🌱 I’m currently reasearching smart contract and blockchain security.
 
